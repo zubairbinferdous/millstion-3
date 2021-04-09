@@ -10,7 +10,7 @@ console.log('round' ,result3);
 console.log('ceil' ,result2);
 
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 4 ; i++) {
     
     var random = Math.random() * 6;
     var ludo = Math.round(random);
