@@ -10,3 +10,5 @@ for (let i = 0; i < mark.length; i++) {
     }
 }
 console.log('big number from array :', hight);
+
+
