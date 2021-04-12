@@ -14,3 +14,6 @@ function reversString(str) {
 var statement =  'hello big ass';
 var result = reversString(statement);
 console.log(result);
+
+var food = reversString('what u need to do');
+console.log(food);
