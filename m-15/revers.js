@@ -1,10 +1,10 @@
-function reversString(str) {
+function reversString(string) {
     
     var reverse = '';
 
-    for (var i = 0; i < str.length; i++){
+    for (var i = 0; i < string.length; i++){
 
-        var char = str[i];
+        var char = string[i];
         reverse = char + reverse;
 
     }
